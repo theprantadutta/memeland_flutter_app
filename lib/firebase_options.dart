@@ -42,17 +42,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyCmoJNFcNLo6Oqv7LQJQGt_yPcY3HH84VQ',
-    appId: '1:346403249512:web:d464b49b0a1f8645bf4add',
+    appId: '1:346403249512:web:ddfc550222cbf65ebf4add',
     messagingSenderId: '346403249512',
     projectId: 'memeland-7125c',
     authDomain: 'memeland-7125c.firebaseapp.com',
     storageBucket: 'memeland-7125c.firebasestorage.app',
-    measurementId: 'G-BWS1XB5C9C',
+    measurementId: 'G-BYE8MZ0Y56',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDS74Z9LWMSg8F6_Zxr4BCTX6F5QQ6YeDY',
-    appId: '1:346403249512:android:5290a110c9dea8a2bf4add',
+    appId: '1:346403249512:android:eff319c999ede801bf4add',
     messagingSenderId: '346403249512',
     projectId: 'memeland-7125c',
     storageBucket: 'memeland-7125c.firebasestorage.app',
@@ -60,29 +60,30 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyA7dYcftmbQWrXHOahsZXxPD3_6PyTmqNI',
-    appId: '1:346403249512:ios:0c97c255beeb4943bf4add',
+    appId: '1:346403249512:ios:150f26e15be7b44fbf4add',
     messagingSenderId: '346403249512',
     projectId: 'memeland-7125c',
     storageBucket: 'memeland-7125c.firebasestorage.app',
-    iosBundleId: 'com.example.memelandFlutterApp',
+    iosBundleId: 'com.pranta.memeland',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyA7dYcftmbQWrXHOahsZXxPD3_6PyTmqNI',
-    appId: '1:346403249512:ios:0c97c255beeb4943bf4add',
+    appId: '1:346403249512:ios:150f26e15be7b44fbf4add',
     messagingSenderId: '346403249512',
     projectId: 'memeland-7125c',
     storageBucket: 'memeland-7125c.firebasestorage.app',
-    iosBundleId: 'com.example.memelandFlutterApp',
+    iosBundleId: 'com.pranta.memeland',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyCmoJNFcNLo6Oqv7LQJQGt_yPcY3HH84VQ',
-    appId: '1:346403249512:web:f54b9f021e0b20b0bf4add',
+    appId: '1:346403249512:web:9e4d03b1198f53ffbf4add',
     messagingSenderId: '346403249512',
     projectId: 'memeland-7125c',
     authDomain: 'memeland-7125c.firebaseapp.com',
     storageBucket: 'memeland-7125c.firebasestorage.app',
-    measurementId: 'G-6XVXLSVWGW',
+    measurementId: 'G-RBR7GRRTP3',
   );
+
 }
