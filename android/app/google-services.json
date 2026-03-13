@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346403249512",
+    "project_id": "memeland-7125c",
+    "storage_bucket": "memeland-7125c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346403249512:android:5290a110c9dea8a2bf4add",
+        "android_client_info": {
+          "package_name": "com.example.memeland_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS74Z9LWMSg8F6_Zxr4BCTX6F5QQ6YeDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
